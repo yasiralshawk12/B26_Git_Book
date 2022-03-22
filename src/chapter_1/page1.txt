@@ -1,4 +1,6 @@
 This is the start of my book
-page 1 will help us to get started
+page 1 will help us to get started.
+no space here
+I love java more than python
 java is cool
 james bond is always with java
